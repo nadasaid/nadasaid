@@ -17,9 +17,11 @@ Strong ability to translate complex data into clear, actionable insights.<br><br
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nadasaid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=nadasaid&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadasaid&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nadasaid&show_icons=true&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=nadasaid&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nadasaid&layout=compact&theme=dark)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=nadasaid&icon=0&color=0)
